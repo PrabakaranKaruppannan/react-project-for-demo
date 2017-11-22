@@ -1,0 +1,7 @@
+enum ActionKeys {
+    GET_USERS_IN_PROGRESS = 'GET_USERS_IN_PROGRESS',
+    GET_USERS_SUCCESS = 'GET_USERS_SUCCESS',
+    GET_USERS_FAIL = 'GET_USERS_FAIL'
+}
+
+export default ActionKeys;
